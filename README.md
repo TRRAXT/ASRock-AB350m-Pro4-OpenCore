@@ -69,8 +69,8 @@ Install macOS Ventura on AB350m Pro4 and Ryzen 3200G with Dual-Boot Win 10
       - XHCI Hand-off: Enabled
     - Onboard Devices Configuration
         - Serial Port: Disabled
-  Boot
-    - CSM (Compatibility Support Module)
+    - Boot
+      - CSM (Compatibility Support Module)
       - Launch CSM: Disabled
     - Secure Boot
       - OS Type: Other OS
